@@ -1,4 +1,4 @@
-package eclipserepo;
+package co.eclipserepo;
 
 public class TestJava {
 
